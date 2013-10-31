@@ -1,6 +1,6 @@
 #
-# Cookbook Name:: massive-octo-archer
-# Recipe:: api
+# Cookbook Name:: api
+# Recipe:: install
 #
 
 include_recipe 'deploy'
