@@ -12,5 +12,5 @@ node[:deploy].each do |application, deploy|
 end
 
 deploy "api" do
-  Chef::Log.info("This is a test application #{application}")
+  Chef::Log.info("This is a test application deploy api #{application}")
 end
