@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: massive-octo-archer
+# Cookbook Name:: ninja
 # Recipe:: install
 #
 
