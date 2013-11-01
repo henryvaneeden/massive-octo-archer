@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: api
+# Cookbook Name:: massive-octo-archer
 # Recipe:: install
 #
 
